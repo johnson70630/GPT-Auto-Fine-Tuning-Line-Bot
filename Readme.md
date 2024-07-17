@@ -2,7 +2,7 @@
 
 ## Clone the repository
 `
-git clone https://github.com/z-institute/Auto-finetune-bot.git
+git clone https://github.com/johnson70630/GPT-Auto-Fine-Tuning-Line-Bot.git
 `
 
 ## Create a Line Bot 
