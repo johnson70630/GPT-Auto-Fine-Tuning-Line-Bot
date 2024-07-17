@@ -34,7 +34,7 @@ in your terminal
 - You should update the URL everytime you run ngrok
 
 ## Run Line bot
-- Access to the line bot folder `cd bot`
+- Access to the line bot folder `cd chatbot`
 - Run the Line bot in terminal
 `
 python3 line_bot.py
